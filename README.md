@@ -29,12 +29,12 @@ PrepPlan is an AI-powered interview preparation platform designed to help users 
 * **AI Integration:** Custom backend AI service integration
 
 ### How to get started
-cd backend
-npm install
+cd backend -> 
+npm install -> 
 nodemon server.js
 
-cd frontend
-npm install
+cd frontend -> 
+npm install -> 
 npm run dev
 
 ---
