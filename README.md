@@ -28,6 +28,15 @@ PrepPlan is an AI-powered interview preparation platform designed to help users 
 * **Database:** MongoDB (or preferred NoSQL/SQL database)
 * **AI Integration:** Custom backend AI service integration
 
+### How to get started
+cd backend
+npm install
+nodemon server.js
+
+cd frontend
+npm install
+npm run dev
+
 ---
 
 
